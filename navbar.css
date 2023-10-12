@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:root {
+    --lightback: #10abab;
+    --darkback: #0e7878;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--lightback);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--darkback);
+}
+
+.main>.header1 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: var(--darkback);
+}
+
+.main>.header1>img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid var(--lightback);
+    object-fit: cover;
+    z-index: 1;
+}
+
+.main>.header1>ul {
+    width: calc(100% - 60px);
+    display: flex;
+    gap: 25px;
+    justify-content: flex-end;
+    transition: .75s;
+}
+
+.main>.header1>ul>li {
+    display: flex;
+}
+
+.main>.header1>ul>li>a {
+    display: flex;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+    transition: .75s;
+    font-size: .9rem;
+}
+
+.main>.header1>ul>li>a:hover {
+    color: antiquewhite;
+}
+
+.main>.header1>ul>li>a::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background-color: antiquewhite;
+    transition: .75s;
+}
+
+.main>.header1>ul>li>a:hover::before {
+    width: 100%;
+    left: 0;
+}
+
+.main>.header1>div {
+    display: none;
+    cursor: pointer;
+}
+
+.main>.header1>div>i {
+    display: none;
+    color: white;
+    font-size: 2rem;
+}
+
+
+@media(max-width: 990px) {
+    .main>.header1 {
+        position: relative;
+    }
+
+    .main>.header1>ul {
+        position: absolute;
+        flex-direction: column;
+        justify-content: flex-start;
+        background-color: rgba(16, 171, 171, .4);
+        top: 80px;
+        left: 0;
+        width: 100%;
+        gap: 8px;
+        transform: translateY(-150%);
+    }
+
+    .main>.header1>ul>li {
+        background-color: var(--darkback);
+        padding: 15px;
+    }
+    .main>.header1>ul>li>a{
+        width: 100%;
+    }
+
+
+    .main>.header1>div {
+        display: flex;
+        position: relative;
+    }
+
+    .main>.header1>div>i:nth-child(1) {
+        display: block;
+    }
+}

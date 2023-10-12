@@ -1,0 +1,227 @@
+.students {
+    background-color: var(--lightback);
+    padding-top: 15px;
+}
+.students>h2{
+    font-size: 1rem;
+    padding: 10px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    color: white;
+    width: calc(100% - 30px);
+    margin-left: 15px;
+}
+.students>h1 {
+    font-size: 2rem;
+    color: white;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 50px 0;
+    text-align: center;
+    text-decoration: underline overline;
+}
+
+.students>div {
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.students>div>div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-between;
+    background-color: var(--lightback);
+    width: 40%;
+    transition: .5s;
+}
+
+.students>div>div:hover {
+    background-color: var(--lightback);
+}
+
+.students>div>div>span:nth-child(1) {
+    font-size: large;
+    color: white;
+    font-weight: 900;
+    font-size: 1.3rem;
+    padding: 30px 20px;
+    cursor: pointer;
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+}
+
+.students>div>div>span:nth-child(2) {
+    color: white;
+    padding: 20px;
+    background-color: var(--darkback);
+    position: relative;
+}
+
+.students>div>div>span:nth-child(2)::before {
+    content: '';
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    height: 2px;
+    left: 0%;
+    top: -2px;
+    animation: nameofmodul 5s linear infinite alternate-reverse;
+}
+
+.students>table {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.students>table>tr {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    padding: 5px 0;
+}
+
+.students>table>tr>td,
+th {
+    color: white;
+    padding: 5px;
+    text-align: center;
+    width: calc(100% / 5);
+}
+
+.students>.exam {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    padding: 30px 0;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+.students>.exam>div {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid white;
+}
+
+.students>.exam>div>span:nth-child(1) {
+    width: 140px;
+    padding: 20px 10px;
+    background-color: var(--darkback);
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.students>.exam>div>span:nth-child(2) {
+    background-color: var(--lightback);
+    width: calc(100% - 140px);
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+
+.students>.exam>div>span:nth-child(2)::before {
+    animation: none;
+    width: 0;
+    height: 0;
+}
+
+
+@keyframes nameofmodul {
+    from {
+        width: 100%;
+        left: 0;
+    }
+
+    to {
+        width: 0%;
+        left: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media(max-width: 750px) {
+    .students>h1 {
+        padding: 30px 0;
+        font-size: 1.5rem;
+    }
+
+    .students>div>div {
+        width: 45%;
+    }
+
+    .students>div>div>span:nth-child(1) {
+        font-size: 1.1rem;
+        padding: 30px 10px;
+    }
+}
+
+@media(max-width: 500px) {
+    .students>h1 {
+        font-size: 1.2rem;
+    }
+
+    .students>div {
+        padding: 10px 0px;
+        gap: 10px;
+    }
+
+    .students>div>div {
+        width: 48%;
+    }
+
+    .students>div>div>span:nth-child(1) {
+        font-size: 1rem;
+    }
+
+    .students>div>div>span:nth-child(2) {
+        font-size: .8rem;
+    }
+}
+
+
+@media(max-width: 500px) {
+    .students>div {
+        gap: 5px;
+    }
+
+    .students>div>div {
+        width: 48.5%;
+    }
+
+    .students>div>div>span:nth-child(1) {
+        font-size: .86rem;
+    }
+
+    .students>div>div>span:nth-child(2) {
+        font-size: .7rem;
+    }
+
+    .students>.exam>div>span:nth-child(1){
+        font-size: .8rem;
+    }
+}
