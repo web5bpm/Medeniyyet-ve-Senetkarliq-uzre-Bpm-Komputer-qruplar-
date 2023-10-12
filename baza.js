@@ -10,7 +10,7 @@ localStorage.setItem("password", password);
 let objectofStudent = [
     student1 = {
         NameofStudent: "Nurlan",
-        Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 16 },
+        Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
