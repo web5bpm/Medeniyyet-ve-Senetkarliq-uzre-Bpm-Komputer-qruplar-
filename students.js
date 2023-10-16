@@ -194,13 +194,13 @@ divofmodul.onclick = function (e) {
     examChild2_2.textContent = resultofexam;
     examChild3_2.textContent = resulttoexam + Number(resultofexam);
 
-    if(Number(resultofexam)<18 && Number(resultofexam>0)){
+    if((Number(resultofexam)<18 && Number(resultofexam>0))){
         students.style.backgroundColor="red";
-        alert("Çox təəssüf imtahanı keçə bilmədiniz :(");
+        alert("Çox təəssüf imtahanı keçə bilmədinizzz :(");
     }
-    else if(Number(examChild3_2.textContent)>0 && Number(examChild3_2.textContent)<51){
+    else if ((Number(examChild3_2.textContent)>0 && Number(examChild3_2.textContent)<51) && (Number(examChild3_2.textContent)!=resulttoexam)){
         students.style.backgroundColor="red";
-        alert("Çox təəssüf imtahanı keçə bilmədiniz :(");
+        alert("Çox təəssüf imtahanı keçə bilmədinizzz :(");
     }
     else if(Number(resultofexam)>17 && Number(examChild3_2.textContent)>50){
         students.style.backgroundColor="#10ABAB";
