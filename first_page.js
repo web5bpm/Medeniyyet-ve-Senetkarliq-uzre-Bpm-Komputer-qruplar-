@@ -4,6 +4,7 @@ let newListNamesofLocal = localStorage.getItem("listofstudentsname").split(",");
 let newListPuansofLocal = localStorage.getItem("listofstudentspuans").split(",");
 
 if (passwordforerror == "3vv4ksa") {
+    result.innerHTML = "";
     const form = document.createElement('form');
     const user = document.createElement('input');
     user.setAttribute("type", "text");
