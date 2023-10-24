@@ -11,207 +11,207 @@ let objectofStudent = [
     student1 = {
         NameofStudent: "Nurlan",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student2 = {
         NameofStudent: "Fuad",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student3 = {
         NameofStudent: "Leyla",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student4 = {
         NameofStudent: "İbrahim",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 10, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student5 = {
         NameofStudent: "Nəzrin",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student6 = {
         NameofStudent: "Şükür",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student7 = {
         NameofStudent: "Fərid",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student8 = {
         NameofStudent: "Həmid",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student9 = {
         NameofStudent: "Zəhra.K",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student10 = {
         NameofStudent: "Sevinc",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student11 = {
         NameofStudent: "Zəhra.Ə",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student12 = {
         NameofStudent: "Fatimə",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student13 = {
         NameofStudent: "Esmira",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         resultofexam: 0
     },
     student14 = {
         NameofStudent: "Tahir",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student15 = {
         NameofStudent: "Kəmaləddin",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student16 = {
         NameofStudent: "Hüseyn",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student17 = {
         NameofStudent: "Ərhan",
         Az_tarixi: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         dizayn: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        photoshop: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     }
 ];
 
