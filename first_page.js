@@ -1,8 +1,113 @@
 let result = document.getElementsByClassName('result')[0];
 
+let mainofsite = document.getElementsByClassName('main')[0];
+
 let newListNamesofLocal = localStorage.getItem("listofstudentsname").split(",");
 let newListPuansofLocal = localStorage.getItem("listofstudentspuans").split(",");
 
+let resultforteacher = document.getElementsByClassName('resultforteacher')[0];
+
+let form2 = document.createElement('form');
+let input1_Form2 = document.createElement('input');
+input1_Form2.setAttribute("type", "text");
+input1_Form2.setAttribute("placeholder", "parolu daxil et: ");
+
+let input2_Form2 = document.createElement('input');
+input2_Form2.setAttribute("type", "button");
+input2_Form2.setAttribute("value", "Elektron Jurnala daxil ol");
+
+form2.appendChild(input1_Form2);
+form2.appendChild(input2_Form2);
+
+resultforteacher.appendChild(form2);
+
+
+let elektronJurnal = document.createElement('div');
+elektronJurnal.className = "EJ";
+
+let chixish = document.createElement('span');
+elektronJurnal.appendChild(chixish);
+chixish.setAttribute("class", "chixish");
+chixish.textContent = "Pəncərəni bağla";
+
+let modulsnameforEJ = ["Az_tarixi", "Az_dili", "xarici_dil", "it", "th", "kes", "qrafika", "dizayn", "photoshop"];
+
+for (let i = 0; i < localStorage.getItem("lengthOfModul"); i++) {
+    let EJChildModul = document.createElement('div');
+    let EJChildModul_student = document.createElement('div');
+
+    let EJChildModul_name = document.createElement('span');
+    EJChildModul_name.textContent = "Tələbələr";
+    let EJChildModul_k1 = document.createElement('span');
+    EJChildModul_k1.textContent = "kol1";
+    let EJChildModul_k2 = document.createElement('span');
+    EJChildModul_k2.textContent = "kol2";
+    let EJChildModul_k3 = document.createElement('span');
+    EJChildModul_k3.textContent = "kol3";
+    let EJChildModul_dav = document.createElement('span');
+    EJChildModul_dav.textContent = "dav.bal";
+    let EJChildModul_ser = document.createElement('span');
+    EJChildModul_ser.textContent = "ser.ish";
+
+    EJChildModul_student.appendChild(EJChildModul_name);
+    EJChildModul_student.appendChild(EJChildModul_k1);
+    EJChildModul_student.appendChild(EJChildModul_k2);
+    EJChildModul_student.appendChild(EJChildModul_k3);
+    EJChildModul_student.appendChild(EJChildModul_dav);
+    EJChildModul_student.appendChild(EJChildModul_ser);
+
+    let modulName = document.createElement('h1');
+    modulName.textContent = localStorage.getItem("modul" + (i+1));
+    EJChildModul.appendChild(modulName);
+    EJChildModul.appendChild(EJChildModul_student);
+
+    elektronJurnal.appendChild(EJChildModul);
+
+    for (let j = 0; j < lengthOfStudent; j++) {
+        let EJChildModul_student = document.createElement('div');
+
+        let EJChildModul_name = document.createElement('span');
+        EJChildModul_name.textContent = objectofStudent[j].NameofStudent;
+        let EJChildModul_k1 = document.createElement('span');
+        EJChildModul_k1.textContent = objectofStudent[j][modulsnameforEJ[i]].kolluk1;
+        let EJChildModul_k2 = document.createElement('span');
+        EJChildModul_k2.textContent = objectofStudent[j][modulsnameforEJ[i]].kolluk2;
+        let EJChildModul_k3 = document.createElement('span');
+        EJChildModul_k3.textContent = objectofStudent[j][modulsnameforEJ[i]].kolluk3;
+        let EJChildModul_dav = document.createElement('span');
+        EJChildModul_dav.textContent = objectofStudent[j][modulsnameforEJ[i]].davamiyyet;
+        let EJChildModul_ser = document.createElement('span');
+        EJChildModul_ser.textContent = objectofStudent[j][modulsnameforEJ[i]].serbestish;
+
+        EJChildModul_student.appendChild(EJChildModul_name);
+        EJChildModul_student.appendChild(EJChildModul_k1);
+        EJChildModul_student.appendChild(EJChildModul_k2);
+        EJChildModul_student.appendChild(EJChildModul_k3);
+        EJChildModul_student.appendChild(EJChildModul_dav);
+        EJChildModul_student.appendChild(EJChildModul_ser);
+
+        EJChildModul.appendChild(EJChildModul_student);
+
+        elektronJurnal.appendChild(EJChildModul);
+
+    }
+
+}
+mainofsite.appendChild(elektronJurnal);
+
+
+input2_Form2.onclick = function () {
+    if (input1_Form2.value == "EJ") {
+        elektronJurnal.style.display = "flex";
+    }
+    else{
+        alert("Hörmətli müəllim, parolu yanlış daxil etdiniz");
+    }
+}
+
+chixish.onclick=function(){
+    elektronJurnal.style.display = "none";
+}
 
 for (let i = 0; i < lengthOfStudent; i++) {
     let result_child = document.createElement('div');
@@ -18,6 +123,7 @@ for (let i = 0; i < lengthOfStudent; i++) {
 
     result.appendChild(result_child);
 }
+
 
 let c_b = document.getElementsByClassName('carosel-back')[0],
 
