@@ -349,7 +349,7 @@ else if (password == "3vv4ksa") {
 }
 
 else if (password == "7vv8ksa") {
-    let abdulla = 8, alpay = 6, ayan = 9, aygun = 5, ayxan = 5, banu_q = 5, banu_v = 5,
+    let abdulla = 8, alpay = 6, ayan = 9, aygun = 6, ayxan = 5, banu_q = 7, banu_v = 5,
         cavid = 8, elxan = 6, esmiralda = 5, eli_e = 8, eli_q = 8, eli_h = 9, fatime = 6,
         ibrahim = 6, ismayil = 6, lale = 8, lamiye = 8, xezer = 9, ziya = 7;
 
