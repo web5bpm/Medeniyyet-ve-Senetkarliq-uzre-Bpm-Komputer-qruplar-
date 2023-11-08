@@ -349,9 +349,9 @@ else if (password == "3vv4ksa") {
 }
 
 else if (password == "7vv8ksa") {
-    let abdulla = 0, alpay = 0, ayan = 0, aygun = 0, ayxan = 0, banu_q = 0, banu_v = 0,
-        cavid = 0, elxan = 0, esmiralda = 0, eli_e = 0, eli_q = 0, eli_h = 0, fatime = 0,
-        ibrahim = 0, ismayil = 0, lale = 0, lamiye = 0, xezer = 0, ziya = 0;
+    let abdulla = 8, alpay = 6, ayan = 9, aygun = 5, ayxan = 5, banu_q = 5, banu_v = 5,
+        cavid = 8, elxan = 6, esmiralda = 5, eli_e = 8, eli_q = 8, eli_h = 9, fatime = 6,
+        ibrahim = 6, ismayil = 6, lale = 8, lamiye = 8, xezer = 9, ziya = 7;
 
     listOfStudentsPuans = [abdulla, alpay, ayan, aygun, ayxan, banu_q, banu_v,
         cavid, elxan, esmiralda, eli_e, eli_q, eli_h, fatime,
