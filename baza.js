@@ -11,7 +11,7 @@ let objectofStudent = [
     student1 = {
         NameofStudent: "Nurlan",
         Az_tarixi: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -23,7 +23,7 @@ let objectofStudent = [
     student2 = {
         NameofStudent: "Fuad",
         Az_tarixi: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -35,7 +35,7 @@ let objectofStudent = [
     student3 = {
         NameofStudent: "Leyla",
         Az_tarixi: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -83,7 +83,7 @@ let objectofStudent = [
     student7 = {
         NameofStudent: "Fərid",
         Az_tarixi: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -168,7 +168,7 @@ let objectofStudent = [
     student14 = {
         NameofStudent: "Tahir",
         Az_tarixi: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -180,7 +180,7 @@ let objectofStudent = [
     student15 = {
         NameofStudent: "Kəmaləddin",
         Az_tarixi: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 2, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 4, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -204,7 +204,7 @@ let objectofStudent = [
     student17 = {
         NameofStudent: "Ərhan",
         Az_tarixi: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        Az_dili: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        Az_dili: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
