@@ -440,7 +440,7 @@ for (let i = 0; i < lengthOfStudent; i++) {
         }
     }
 
-    newListPuans[c] = great;
+    newListPuans[c] = great.toFixed(0);
     last_place_1 = listOfStudentsPuans[last - 1];
     listOfStudentsPuans[last - 1] = listOfStudentsPuans[z];
     listOfStudentsPuans[z] = last_place_1;
