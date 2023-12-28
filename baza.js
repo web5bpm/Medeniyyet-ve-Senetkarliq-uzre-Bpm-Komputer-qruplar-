@@ -1,4 +1,4 @@
-localStorage.setItem("midtermDate", "Aralıq imtahan II </br> 20 noy - 5 dek")
+localStorage.setItem("midtermDate", "Semestr imtahan I </br> 8 yan - 17 yan")
 
 let user = localStorage.getItem("user");
 
