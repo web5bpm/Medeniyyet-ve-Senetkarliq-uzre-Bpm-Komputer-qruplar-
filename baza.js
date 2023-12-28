@@ -540,8 +540,8 @@ if (password == "3vv4ksa") {
         date: "60",
         kredit: "15/6",
         pdfofbook: "#",
-        day: "x",
-        time: "x",
+        day: "17.01.2024",
+        time: "13:30-15:30",
         pdf: "#"
     },
         modul2 = {
@@ -550,8 +550,8 @@ if (password == "3vv4ksa") {
             date: "60",
             kredit: "15/6",
             pdfofbook: "#",
-            day: "x",
-            time: "x",
+            day: "11.01.2024",
+            time: "13:30-15:30",
             pdf: "#"
         },
         modul3 = {
@@ -560,8 +560,8 @@ if (password == "3vv4ksa") {
             date: "45",
             kredit: "12/4",
             pdfofbook: "#",
-            day: "x",
-            time: "x",
+            day: "10.01.2024",
+            time: "11:00-13:00",
             pdf: "#"
         },
         modul4 = {
@@ -570,8 +570,8 @@ if (password == "3vv4ksa") {
             date: "30",
             kredit: "8/3",
             pdfofbook: "#",
-            day: "x",
-            time: "x",
+            day: "12.01.2024",
+            time: "13:30-15:30",
             pdf: "#"
         },
         modul5 = {
@@ -580,8 +580,8 @@ if (password == "3vv4ksa") {
             date: "30",
             kredit: "8/3",
             pdfofbook: "#",
-            day: "x",
-            time: "x",
+            day: "15.01.2024",
+            time: "11:00-13:00",
             pdf: "#"
         },
         modul6 = {
@@ -590,8 +590,8 @@ if (password == "3vv4ksa") {
             date: "75",
             kredit: "19/7",
             pdfofbook: "image/Əməliyyat_sistemləri.pptx",
-            day: "x",
-            time: "x",
+            day: "16.01.2024",
+            time: "11:00-13:00",
             pdf: "#"
         },
         modul7 = {
@@ -600,8 +600,8 @@ if (password == "3vv4ksa") {
             date: "60",
             kredit: "15/6",
             pdfofbook: "image/Alqoritm-Peşə.pdf",
-            day: "x",
-            time: "x",
+            day: "09.01.2024",
+            time: "11:00-13:00",
             pdf: "image/komputer_qrafikasi_sillabus.pdf"
         },
         modul8 = {
@@ -610,8 +610,8 @@ if (password == "3vv4ksa") {
             date: "60",
             kredit: "15/6",
             pdfofbook: "#",
-            day: "x",
-            time: "x",
+            day: "08.01.2024",
+            time: "08:30-10:30",
             pdf: "image/Dizayna_giriş_sillabus.pdf"
         },
         modul9 = {
@@ -620,8 +620,8 @@ if (password == "3vv4ksa") {
             date: "105",
             kredit: "27/10",
             pdfofbook: "image/Photoshop1.pptx",
-            day: "x",
-            time: "x",
+            day: "13.01.2024",
+            time: "13:30-15:30",
             pdf: "#"
         }
 
