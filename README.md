@@ -1,1 +1,1 @@
-# school-site
+# Medeniyyet ve Senetkarliq uzre BPM Komputer qruplari
