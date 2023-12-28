@@ -16,7 +16,7 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        qrafika: { kolluk1: 9, kolluk2: 9, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        qrafika: { kolluk1: 9, kolluk2: 9, kolluk3: 0, davamiyyet: 10, serbestish: 17, resultofexam: 0 },
         dizayn: { kolluk1: 9, kolluk2: 10, kolluk3: 0, davamiyyet: 10, serbestish: 18, resultofexam: 0 },
         photoshop: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
@@ -29,7 +29,7 @@ let objectofStudent = [
         th: { kolluk1: 7, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 8, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 9, kolluk2: 10, kolluk3: 0, davamiyyet: 10, serbestish: 20, resultofexam: 0 },
-        dizayn: { kolluk1: 9, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        dizayn: { kolluk1: 9, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 17, resultofexam: 0 },
         photoshop: { kolluk1: 9, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student3 = {
@@ -41,7 +41,7 @@ let objectofStudent = [
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         qrafika: { kolluk1: 7, kolluk2: 6, kolluk3: 0, davamiyyet: 10, serbestish: 16, resultofexam: 0 },
-        dizayn: { kolluk1: 8, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        dizayn: { kolluk1: 8, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 12, resultofexam: 0 },
         photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student4 = {
@@ -112,8 +112,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        qrafika: { kolluk1: 7, kolluk2: 7, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
-        dizayn: { kolluk1: 5, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        qrafika: { kolluk1: 7, kolluk2: 7, kolluk3: 0, davamiyyet: 10, serbestish: 15, resultofexam: 0 },
+        dizayn: { kolluk1: 5, kolluk2: 8, kolluk3: 0, davamiyyet: 10, serbestish: 18, resultofexam: 0 },
         photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student10 = {
@@ -136,8 +136,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        qrafika: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
-        dizayn: { kolluk1: 5, kolluk2: 6, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        qrafika: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 11, resultofexam: 0 },
+        dizayn: { kolluk1: 5, kolluk2: 6, kolluk3: 0, davamiyyet: 10, serbestish: 11, resultofexam: 0 },
         photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student12 = {
@@ -148,7 +148,7 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 3, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        qrafika: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        qrafika: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 12, resultofexam: 0 },
         dizayn: { kolluk1: 8, kolluk2: 7, kolluk3: 0, davamiyyet: 10, serbestish: 12, resultofexam: 0 },
         photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
@@ -160,7 +160,7 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         kes: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        qrafika: { kolluk1: 7, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 0, resultofexam: 0 },
+        qrafika: { kolluk1: 7, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 14, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 6, kolluk3: 0, davamiyyet: 10, serbestish: 17, resultofexam: 0 },
         photoshop: { kolluk1: 5, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         resultofexam: 0
