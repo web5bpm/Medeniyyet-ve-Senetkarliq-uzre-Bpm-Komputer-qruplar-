@@ -380,9 +380,9 @@ else if (password == "7vv8ksa") {
         "image/prof.jpg", "image/prof.jpg"];
 }
 else if (password == "5vv6ksa") {
-    let mehemmed = 49*10/13 + 39, adil = 44*10/13 + 0, altay = 36*10/13 + 27, aysel = 63*10/13 + 46, eli = 53*10/13 + 41, elisadir = 16*10/13 + 26, fateh = 53*10/13 + 44,
-        govher = 32*10/13 + 31, gullale = 65*10/13 + 49, shelale = 62*10/13 + 40, huseyn = 58*10/13 + 46, inal = 46*10/13 + 35, konul = 42*10/13 + 33,
-        murad = 56*10/13 + 48, naile = 53*10/13 + 26, necibe = 58*10/13 + 50, oruc = 57*10/13 + 46, sebine = 42*10/13 + 38, serfi = 48*10/13 + 32, yusif = 39*10/13 + 30;
+    let mehemmed = 65, adil = 55, altay = 50, aysel = 82, eli = 90, elisadir = 55, fateh = 73,
+        govher = 58, gullale = 92, shelale = 75, huseyn = 89, inal = 50, konul = 50,
+        murad = 90, naile = 70, necibe = 91, oruc = 88, sebine = 60, serfi = 68, yusif = 70;
 
     listOfStudentsPuans = [mehemmed, adil, altay, aysel, eli, elisadir, fateh,
         govher, gullale, shelale, huseyn, inal, konul,
