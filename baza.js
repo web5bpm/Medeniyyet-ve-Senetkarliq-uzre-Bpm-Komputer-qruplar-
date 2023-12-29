@@ -126,7 +126,7 @@ let objectofStudent = [
         kes: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 19, resultofexam: 0 },
         qrafika: { kolluk1: 6, kolluk2: 5, kolluk3: 0, davamiyyet: 10, serbestish: 15, resultofexam: 0 },
         dizayn: { kolluk1: 5, kolluk2: 6, kolluk3: 0, davamiyyet: 10, serbestish: 18, resultofexam: 0 },
-        photoshop: { kolluk1: 6, kolluk2: 0, kolluk3: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
+        photoshop: { kolluk1: 6, kolluk2: 7, kolluk3: 0, davamiyyet: 10, serbestish: 18, resultofexam: 0 }
     },
     student11 = {
         NameofStudent: "Zəhra.Ə",
