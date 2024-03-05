@@ -15,8 +15,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student2 = {
@@ -26,8 +26,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 10, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 10, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student3 = {
@@ -37,8 +37,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student4 = {
@@ -48,8 +48,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 10, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student5 = {
@@ -59,8 +59,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student6 = {
@@ -70,8 +70,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student7 = {
@@ -81,8 +81,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 6, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student8 = {
@@ -92,8 +92,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student9 = {
@@ -103,8 +103,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student10 = {
@@ -114,8 +114,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 6, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student11 = {
@@ -125,8 +125,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 7, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 19, serbestish: 0, resultofexam: 0 }
     },
     student12 = {
@@ -136,8 +136,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 7, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student13 = {
@@ -147,8 +147,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student14 = {
@@ -158,8 +158,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student15 = {
@@ -169,8 +169,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student16 = {
@@ -180,8 +180,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     },
     student17 = {
@@ -191,8 +191,8 @@ let objectofStudent = [
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        sql: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 0, kolluk1: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        sql: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 6, kolluk1: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     }
 ];
