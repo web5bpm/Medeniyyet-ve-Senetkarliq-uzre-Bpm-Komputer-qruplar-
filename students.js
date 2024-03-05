@@ -50,8 +50,6 @@ let td1 = document.createElement('td');
 td1.textContent = "0";
 let td2 = document.createElement('td');
 td2.textContent = "0";
-let td3 = document.createElement('td');
-td3.textContent = "0";
 let td4 = document.createElement('td');
 td4.textContent = "0";
 let td5 = document.createElement('td');
@@ -59,7 +57,6 @@ td5.textContent = "0";
 
 tr2.appendChild(td1);
 tr2.appendChild(td2);
-tr2.appendChild(td3);
 tr2.appendChild(td4);
 tr2.appendChild(td5);
 
@@ -95,7 +92,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_pm");
         td2.textContent = localStorage.getItem("Kollekvium2_pm");
-        td3.textContent = localStorage.getItem("Kollekvium3_pm");
         td4.textContent = localStorage.getItem("Davamiyyet_pm");
         td5.textContent = localStorage.getItem("Ferdi_pm");
         resultofexam = localStorage.getItem("resultofexam_pm");
@@ -104,7 +100,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_ing");
         td2.textContent = localStorage.getItem("Kollekvium2_ing");
-        td3.textContent = localStorage.getItem("Kollekvium3_ing");
         td4.textContent = localStorage.getItem("Davamiyyet_ing");
         td5.textContent = localStorage.getItem("Ferdi_ing");
         resultofexam = localStorage.getItem("resultofexam_ing");
@@ -114,7 +109,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_it");
         td2.textContent = localStorage.getItem("Kollekvium2_it");
-        td3.textContent = localStorage.getItem("Kollekvium3_it");
         td4.textContent = localStorage.getItem("Davamiyyet_it");
         td5.textContent = localStorage.getItem("Ferdi_it");
         resultofexam = localStorage.getItem("resultofexam_it");
@@ -124,7 +118,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_th");
         td2.textContent = localStorage.getItem("Kollekvium2_th");
-        td3.textContent = localStorage.getItem("Kollekvium3_th");
         td4.textContent = localStorage.getItem("Davamiyyet_th");
         td5.textContent = localStorage.getItem("Ferdi_th");
         resultofexam = localStorage.getItem("resultofexam_th");
@@ -134,7 +127,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_xromo");
         td2.textContent = localStorage.getItem("Kollekvium2_xromo");
-        td3.textContent = localStorage.getItem("Kollekvium3_xromo");
         td4.textContent = localStorage.getItem("Davamiyyet_xromo");
         td5.textContent = localStorage.getItem("Ferdi_xromo");
         resultofexam = localStorage.getItem("resultofexam_xromo");
@@ -144,7 +136,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_sql");
         td2.textContent = localStorage.getItem("Kollekvium2_sql");
-        td3.textContent = localStorage.getItem("Kollekvium3_sql");
         td4.textContent = localStorage.getItem("Davamiyyet_sql");
         td5.textContent = localStorage.getItem("Ferdi_sql");
         resultofexam = localStorage.getItem("resultofexam_sql");
@@ -154,7 +145,6 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_resm");
         td2.textContent = localStorage.getItem("Kollekvium2_resm");
-        td3.textContent = localStorage.getItem("Kollekvium3_resm");
         td4.textContent = localStorage.getItem("Davamiyyet_resm");
         td5.textContent = localStorage.getItem("Ferdi_resm");
         resultofexam = localStorage.getItem("resultofexam_resm");
@@ -164,13 +154,12 @@ divofmodul.onclick = function (e) {
         hofmodul.textContent = e.target.textContent;
         td1.textContent = localStorage.getItem("Kollekvium1_illus");
         td2.textContent = localStorage.getItem("Kollekvium2_illus");
-        td3.textContent = localStorage.getItem("Kollekvium3_illus");
         td4.textContent = localStorage.getItem("Davamiyyet_illus");
         td5.textContent = localStorage.getItem("Ferdi_illus");
         resultofexam = localStorage.getItem("resultofexam_illus");
     }
 
-    resulttoexam = Number(td1.textContent) + Number(td2.textContent) + Number(td3.textContent) + Number(td4.textContent) + Number(td5.textContent);
+    resulttoexam = Number(td1.textContent) + Number(td2.textContent)  + Number(td4.textContent) + Number(td5.textContent);
 
     examChild1_2.textContent = resulttoexam;
     examChild2_2.textContent = resultofexam;
