@@ -192,7 +192,7 @@ let objectofStudent = [
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xromotologiya: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         sql: { kolluk1: 8, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
-        resmxett: { kolluk1: 6, kolluk1: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        resmxett: { kolluk1: 6, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         illustrator: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 }
     }
 ];
