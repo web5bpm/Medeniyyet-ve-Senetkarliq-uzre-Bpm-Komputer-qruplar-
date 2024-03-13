@@ -10,7 +10,7 @@ localStorage.setItem("password", password);
 let objectofStudent = [
     student1 = {
         NameofStudent: "Nurlan",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 7, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -21,7 +21,7 @@ let objectofStudent = [
     },
     student2 = {
         NameofStudent: "Fuad",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -32,7 +32,7 @@ let objectofStudent = [
     },
     student3 = {
         NameofStudent: "Leyla",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -43,7 +43,7 @@ let objectofStudent = [
     },
     student4 = {
         NameofStudent: "İbrahim",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 9, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -54,7 +54,7 @@ let objectofStudent = [
     },
     student5 = {
         NameofStudent: "Nəzrin",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -65,7 +65,7 @@ let objectofStudent = [
     },
     student6 = {
         NameofStudent: "Şükür",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 10, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -76,7 +76,7 @@ let objectofStudent = [
     },
     student7 = {
         NameofStudent: "Fərid",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -87,7 +87,7 @@ let objectofStudent = [
     },
     student8 = {
         NameofStudent: "Həmid",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -98,7 +98,7 @@ let objectofStudent = [
     },
     student9 = {
         NameofStudent: "Zəhra.K",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -109,7 +109,7 @@ let objectofStudent = [
     },
     student10 = {
         NameofStudent: "Sevinc",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -120,7 +120,7 @@ let objectofStudent = [
     },
     student11 = {
         NameofStudent: "Zəhra.Ə",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 7, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -131,7 +131,7 @@ let objectofStudent = [
     },
     student12 = {
         NameofStudent: "Fatimə",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 7, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -142,7 +142,7 @@ let objectofStudent = [
     },
     student13 = {
         NameofStudent: "Esmira",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -153,7 +153,7 @@ let objectofStudent = [
     },
     student14 = {
         NameofStudent: "Tahir",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -164,7 +164,7 @@ let objectofStudent = [
     },
     student15 = {
         NameofStudent: "Kəmaləddin",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 4, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -175,7 +175,7 @@ let objectofStudent = [
     },
     student16 = {
         NameofStudent: "Hüseyn",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
@@ -186,7 +186,7 @@ let objectofStudent = [
     },
     student17 = {
         NameofStudent: "Ərhan",
-        ProqramMuhendisliyi: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
+        ProqramMuhendisliyi: { kolluk1: 5, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         xarici_dil: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         it: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
         th: { kolluk1: 0, kolluk2: 0, davamiyyet: 0, serbestish: 0, resultofexam: 0 },
